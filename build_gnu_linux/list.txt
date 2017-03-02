@@ -1,0 +1,1019 @@
+Archive member included because of file (symbol)
+
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+                              sata_cmd.o (__aeabi_idiv)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o) (__aeabi_idiv0)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+                              misc.o (__aeabi_uldivmod)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o) (__divdi3)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o) (__udivdi3)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o) (__aeabi_uidiv)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o) (__clzsi2)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                              uart.o (fflush)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o) (__sinit)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o) (_free_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_fwalk)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                              uart.o (_impure_ptr)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_malloc_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (memset)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o) (__malloc_lock)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+                              misc.o (srand)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o) (_sbrk_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+                              misc.o (sprintf)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (__sread)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o) (_svfprintf_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+                              uart.o (vsnprintf)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_write_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_close_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (_dtoa_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (fclose)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (_localeconv_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_lseek_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (memchr)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (memcpy)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (_Balloc)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_read_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o) (errno)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o) (strcmp)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (strlen)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__ssprint_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o) (_calloc_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o) (memmove)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o) (_realloc_r)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (__aeabi_dsub)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (__aeabi_dmul)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+/home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+                              /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+g_sata_context      0x1c              sata_main.o
+g_sdram_ecc_fail_count
+                    0x4               misc.o
+g_ftl_read_buf_id   0x4               ftl.o
+g_sata_action_flags
+                    0x4               sata_main.o
+g_ftl_write_buf_id  0x4               ftl.o
+g_temp_mem          0x200             mem_util.o
+g_timer_interrupt_count
+                    0x4               misc.o
+g_sdram_ecc_count   0x4               misc.o
+__HEAP_START        0x800             misc.o
+g_sata_ncq          0x404             sata_main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ftl.o
+LOAD sata_identify.o
+LOAD sata_cmd.o
+LOAD sata_isr.o
+LOAD sata_main.o
+LOAD sata_table.o
+LOAD initialize.o
+LOAD mem_util.o
+LOAD flash.o
+LOAD flash_wrapper.o
+LOAD misc.o
+LOAD uart.o
+LOAD syscalls.o
+LOAD init.o
+LOAD /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a
+START GROUP
+LOAD /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a
+LOAD /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a
+END GROUP
+                0x00000000                . = 0x0
+
+.text           0x00000000     0xd698
+                0x00000000                entry_point = .
+ init.o(INIT)
+ INIT           0x00000000       0xc8 init.o
+                0x00000044                disable_irq
+                0x00000060                enable_irq
+                0x00000070                disable_fiq
+                0x0000008c                enable_fiq
+                0x0000009c                disable_interrupt
+                0x000000ac                enable_interrupt
+ *(.text)
+ .text          0x000000c8      0xd28 ftl.o
+                0x00000148                ftl_open
+                0x0000079c                ftl_read
+                0x00000930                ftl_write
+                0x00000d1c                ftl_flush
+                0x00000d20                ftl_isr
+ .text          0x00000df0      0x2cc sata_identify.o
+                0x00000f74                ata_identify_device
+ .text          0x000010bc      0x544 sata_cmd.o
+                0x000010bc                ata_check_power_mode
+                0x00001120                ata_read_native_max_address
+                0x000011e4                send_status_to_host
+                0x00001264                ata_not_supported
+                0x0000126c                ata_recalibrate
+                0x00001274                ata_initialize_device_parameters
+                0x000012e4                ata_nop
+                0x000012ec                ata_sleep
+                0x000012f4                ata_idle_immediate
+                0x00001308                ata_idle
+                0x0000131c                ata_standby_immediate
+                0x00001330                ata_standby
+                0x00001344                ata_set_multiple_mode
+                0x0000134c                ata_seek
+                0x0000136c                ata_set_features
+                0x00001434                ata_read_verify_sectors
+                0x0000143c                ata_flush_cache
+                0x00001450                ata_srst
+                0x000014c4                ata_execute_drive_diagnostics
+                0x000014d0                pio_sector_transfer
+                0x000015e0                ata_write_buffer
+                0x000015f0                ata_read_buffer
+ .text          0x00001600      0x568 sata_isr.o
+                0x00001600                fiq_handler
+ .text          0x00001b68      0x308 sata_main.o
+                0x00001b68                Main
+                0x00001cb0                sata_reset
+                0x00001e10                delay
+ .text          0x00001e70        0x0 sata_table.o
+ .text          0x00001e70      0x48c initialize.o
+                0x00001e70                init_jasmine
+ .text          0x000022fc      0x5d4 mem_util.o
+                0x000022fc                _mem_copy
+                0x00002344                _mem_bmp_find_sram
+                0x00002390                _mem_bmp_find_dram
+                0x000023dc                _mem_set_sram
+                0x00002420                _mem_set_dram
+                0x00002464                _mem_search_min_max
+                0x000024b0                _mem_search_equ
+                0x00002514                _write_dram_32
+                0x00002544                _write_dram_16
+                0x000025a4                _write_dram_8
+                0x00002600                _set_bit_dram
+                0x0000265c                _clr_bit_dram
+                0x000026b8                _tst_bit_dram
+                0x000026f0                _read_dram_8
+                0x00002724                _read_dram_16
+                0x0000275c                _read_dram_32
+                0x0000277c                _mem_cmp_sram
+                0x00002808                _mem_cmp_dram
+ .text          0x000028d0      0x458 flash.o
+                0x000028d0                flash_issue_cmd
+                0x0000292c                flash_copy
+                0x000029a0                flash_modify_copy
+                0x00002a28                flash_erase
+                0x00002a8c                flash_finish
+                0x00002aa0                flash_clear_irq
+                0x00002ad8                flash_reset
+ .text          0x00002d28      0x6c0 flash_wrapper.o
+                0x00002d28                nand_page_read
+                0x00002d90                nand_page_ptread
+                0x00002dfc                nand_page_read_to_host
+                0x00002eb4                nand_page_ptread_to_host
+                0x00002f6c                nand_page_program
+                0x00002fd4                nand_page_ptprogram
+                0x00003040                nand_page_program_from_host
+                0x000030f0                nand_page_ptprogram_from_host
+                0x000031a0                nand_page_copyback
+                0x00003210                nand_page_modified_copyback
+                0x00003338                nand_block_erase
+                0x00003390                nand_block_erase_sync
+ .text          0x000033e8      0x990 misc.o
+                0x000033e8                led
+                0x00003408                led_blink
+                0x00003440                swi_handler
+                0x00003444                irq_handler
+                0x0000350c                test_nand_blocks
+                0x00003c74                start_interval_measurement
+                0x00003cac                start_timer
+                0x00003ce0                ptimer_start
+                0x00003cec                ptimer_stop_and_uart_print
+                0x00003d4c                _sbrk
+ .text          0x00003d78      0x2a0 uart.o
+                0x00003d78                uart_init
+                0x00003db4                uart_print
+                0x00003e14                uart_print_32
+                0x00003e44                uart_print_hex
+                0x00003fb4                uart_printf
+ .text          0x00004018       0x30 syscalls.o
+                0x00004018                _close
+                0x00004020                _lseek
+                0x00004028                _write
+                0x00004030                _read
+                0x00004038                _fstat
+                0x00004040                _isatty
+ .text          0x00004048        0x0 init.o
+ .text          0x00004048      0x148 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+                0x00004048                __aeabi_idiv
+                0x00004048                __divsi3
+                0x00004170                __aeabi_idivmod
+ .text          0x00004190        0x4 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+                0x00004190                __aeabi_ldiv0
+                0x00004190                __aeabi_idiv0
+ .text          0x00004194       0x3c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+                0x00004194                __aeabi_uldivmod
+ .text          0x000041d0       0x80 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+                0x000041d0                __gnu_ldivmod_helper
+                0x00004210                __gnu_uldivmod_helper
+ .text          0x00004250      0x4a8 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+                0x00004250                __divdi3
+ .text          0x000046f8      0x434 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                0x000046f8                __udivdi3
+ .text          0x00004b2c      0x114 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+                0x00004b2c                __udivsi3
+                0x00004b2c                __aeabi_uidiv
+                0x00004c20                __aeabi_uidivmod
+ .text          0x00004c40       0x48 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+                0x00004c40                __clzsi2
+ .text          0x00004c88      0x28c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x00004c88                _fflush_r
+                0x00004ed4                fflush
+ .text          0x00004f14      0x334 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00004f24                _cleanup_r
+                0x00004f3c                __sfmoreglue
+                0x00004f84                _cleanup
+                0x00004f94                __sinit
+                0x000050fc                __sfp
+                0x000051f0                __sfp_lock_acquire
+                0x000051f4                __sfp_lock_release
+                0x000051f8                __sinit_lock_acquire
+                0x000051fc                __sinit_lock_release
+                0x00005200                __fp_lock_all
+                0x00005224                __fp_unlock_all
+ .text          0x00005248      0x360 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x00005248                _malloc_trim_r
+                0x00005344                _free_r
+ .text          0x000055a8      0x11c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                0x000055a8                _fwalk
+                0x00005634                _fwalk_reent
+ .text          0x000056c4        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .text          0x000056c4      0x70c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x000056c4                _malloc_r
+ .text          0x00005dd0      0x100 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                0x00005dd0                memset
+ .text          0x00005ed0        0x8 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x00005ed0                __malloc_lock
+                0x00005ed4                __malloc_unlock
+ .text          0x00005ed8       0x78 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+                0x00005ed8                srand
+                0x00005ef4                rand
+ .text          0x00005f50       0x40 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                0x00005f50                _sbrk_r
+ .text          0x00005f90       0xdc /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+                0x00005f90                _sprintf_r
+                0x00005ff8                sprintf
+ .text          0x0000606c       0xdc /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x0000606c                __sread
+                0x000060a0                __seofread
+                0x000060a8                __swrite
+                0x00006100                __sseek
+                0x00006134                __sclose
+ .text          0x00006148     0x2138 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                0x00006148                _svfprintf_r
+ .text          0x00008280       0xc8 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+                0x00008280                _vsnprintf_r
+                0x00008304                vsnprintf
+ .text          0x00008348       0x44 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                0x00008348                _write_r
+ .text          0x0000838c       0x3c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                0x0000838c                _close_r
+ .text          0x000083c8     0x17d0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                0x00008598                _dtoa_r
+ .text          0x00009b98      0x10c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                0x00009b98                _fclose_r
+                0x00009c90                fclose
+ .text          0x00009ca4       0xd0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x00009ca4                _setlocale_r
+                0x00009d10                __locale_charset
+                0x00009d1c                __locale_mb_cur_max
+                0x00009d2c                __locale_msgcharset
+                0x00009d38                __locale_cjk_lang
+                0x00009d40                _localeconv_r
+                0x00009d4c                setlocale
+                0x00009d68                localeconv
+ .text          0x00009d74       0x44 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                0x00009d74                _lseek_r
+ .text          0x00009db8      0x104 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                0x00009db8                memchr
+ .text          0x00009ebc      0x1c0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                0x00009ebc                memcpy
+ .text          0x0000a07c      0xcfc /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000a07c                _Balloc
+                0x0000a104                _Bfree
+                0x0000a120                __multadd
+                0x0000a1fc                __s2b
+                0x0000a2e8                __hi0bits
+                0x0000a338                __lo0bits
+                0x0000a3c8                __i2b
+                0x0000a3ec                __multiply
+                0x0000a5d4                __pow5mult
+                0x0000a6c8                __lshift
+                0x0000a7cc                __mcmp
+                0x0000a82c                __mdiff
+                0x0000a984                __ulp
+                0x0000a9e4                __b2d
+                0x0000aaa8                __d2b
+                0x0000abb0                __ratio
+                0x0000ac28                _mprec_log10
+                0x0000ac7c                __copybits
+                0x0000acf0                __any_on
+ .text          0x0000ad78       0x44 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                0x0000ad78                _read_r
+ .text          0x0000adbc      0x1ac /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x0000adbc                cleanup_glue
+                0x0000ade8                _reclaim_reent
+                0x0000aef0                _wrapup_reent
+ .text          0x0000af68       0x8c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+                0x0000af68                __fpclassifyd
+ .text          0x0000aff4      0x230 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                0x0000aff4                strcmp
+ .text          0x0000b224       0x60 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                0x0000b224                strlen
+ .text          0x0000b284     0x1238 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                0x0000b284                __ssprint_r
+                0x0000b420                _svfiprintf_r
+ .text          0x0000c4bc       0x9c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                0x0000c4bc                _calloc_r
+ .text          0x0000c558      0x128 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                0x0000c558                memmove
+ .text          0x0000c680      0x5c0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                0x0000c680                _realloc_r
+ .text          0x0000cc40      0x41c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                0x0000cc40                __aeabi_drsub
+                0x0000cc48                __aeabi_dsub
+                0x0000cc48                __subdf3
+                0x0000cc4c                __adddf3
+                0x0000cc4c                __aeabi_dadd
+                0x0000cf5c                __aeabi_ui2d
+                0x0000cf5c                __floatunsidf
+                0x0000cf80                __floatsidf
+                0x0000cf80                __aeabi_i2d
+                0x0000cfa8                __extendsfdf2
+                0x0000cfa8                __aeabi_f2d
+                0x0000cfe8                __aeabi_ul2d
+                0x0000cfe8                __floatundidf
+                0x0000cffc                __floatdidf
+                0x0000cffc                __aeabi_l2d
+ .text          0x0000d05c      0x49c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+                0x0000d05c                __aeabi_dmul
+                0x0000d05c                __muldf3
+                0x0000d2ec                __aeabi_ddiv
+                0x0000d2ec                __divdf3
+ .text          0x0000d4f8      0x144 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                0x0000d4f8                __gtdf2
+                0x0000d4f8                __gedf2
+                0x0000d500                __ltdf2
+                0x0000d500                __ledf2
+                0x0000d508                __cmpdf2
+                0x0000d508                __eqdf2
+                0x0000d508                __nedf2
+                0x0000d590                __aeabi_cdrcmple
+                0x0000d5ac                __aeabi_cdcmple
+                0x0000d5ac                __aeabi_cdcmpeq
+                0x0000d5c4                __aeabi_dcmpeq
+                0x0000d5dc                __aeabi_dcmplt
+                0x0000d5f4                __aeabi_dcmple
+                0x0000d60c                __aeabi_dcmpge
+                0x0000d624                __aeabi_dcmpgt
+ .text          0x0000d63c       0x5c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+                0x0000d63c                __fixdfsi
+                0x0000d63c                __aeabi_d2iz
+
+.glue_7         0x0000d698        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x0000d698        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000d698        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0000d698        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.rodata         0x0000d698      0x3a0
+ *(.rodata)
+ .rodata        0x0000d698      0x228 sata_table.o
+                0x0000d698                ata_cmd_class_table
+                0x0000d798                ata_command_code_table
+                0x0000d7d4                ata_function_table
+ .rodata        0x0000d8c0        0x8 flash.o
+                0x0000d8c0                c_bank_map
+ .rodata        0x0000d8c8        0x4 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x0000d8c8                _global_impure_ptr
+ .rodata        0x0000d8cc       0x20 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ *fill*         0x0000d8ec        0x4 00
+ .rodata        0x0000d8f0      0x128 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000d900                __mprec_tens
+                0x0000d9c8                __mprec_bigtens
+                0x0000d9f0                __mprec_tinytens
+ .rodata        0x0000da18       0x20 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+
+.rodata.str1.4  0x0000da38       0xf8
+ .rodata.str1.4
+                0x0000da38       0x29 sata_identify.o
+                                 0x2c (size before relaxing)
+ *fill*         0x0000da61        0x3 00
+ .rodata.str1.4
+                0x0000da64       0x13 initialize.o
+                                 0x14 (size before relaxing)
+ *fill*         0x0000da77        0x1 00
+ .rodata.str1.4
+                0x0000da78       0x53 misc.o
+                                 0x54 (size before relaxing)
+ .rodata.str1.4
+                0x00000000        0x4 uart.o
+ *fill*         0x0000dacb        0x1 00
+ .rodata.str1.4
+                0x0000dacc        0x2 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x0000dace        0x2 00
+ .rodata.str1.4
+                0x0000dad0       0x42 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                                 0x44 (size before relaxing)
+ *fill*         0x0000db12        0x2 00
+ .rodata.str1.4
+                0x0000db14       0x10 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x0000db24        0xc /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x00000000       0x30 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+
+.ARM.extab      0x0000db30        0x0
+ .ARM.extab     0x0000db30        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0000db30        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+
+.ARM.exidx      0x0000db30        0x8
+ .ARM.exidx     0x0000db30        0x8 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0000db38        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+
+.data           0x0000db38      0xadc
+ *(.data)
+ .data          0x0000db38        0x0 ftl.o
+ .data          0x0000db38      0x200 sata_identify.o
+                0x0000db38                ht_identify_data
+ .data          0x0000dd38        0x0 sata_cmd.o
+ .data          0x0000dd38        0x0 sata_isr.o
+ .data          0x0000dd38        0x0 sata_main.o
+ .data          0x0000dd38        0x0 sata_table.o
+ .data          0x0000dd38        0x0 initialize.o
+ .data          0x0000dd38        0x0 mem_util.o
+ .data          0x0000dd38       0x20 flash.o
+                0x0000dd38                c_bank_rmap
+ .data          0x0000dd58        0x0 flash_wrapper.o
+ .data          0x0000dd58        0x0 misc.o
+ .data          0x0000dd58        0x0 uart.o
+ .data          0x0000dd58        0x0 syscalls.o
+ .data          0x0000dd58        0x0 init.o
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .data          0x0000dd58        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .data          0x0000dd58      0x430 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x0000dd58                _impure_ptr
+ .data          0x0000e188      0x410 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000e188                __malloc_av_
+                0x0000e590                __malloc_sbrk_base
+                0x0000e594                __malloc_trim_threshold
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .data          0x0000e598        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .data          0x0000e598       0x7c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000e5b8                __mb_cur_max
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000e614        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+
+.bss            0x0000e614      0xf14
+ *(.bss)
+ .bss           0x0000e614       0x50 ftl.o
+ .bss           0x0000e664        0x0 sata_identify.o
+ .bss           0x0000e664        0x0 sata_cmd.o
+ .bss           0x0000e664        0x0 sata_isr.o
+ .bss           0x0000e664        0x4 sata_main.o
+ .bss           0x0000e668        0x0 sata_table.o
+ .bss           0x0000e668        0x0 initialize.o
+ .bss           0x0000e668        0x0 mem_util.o
+ .bss           0x0000e668        0x0 flash.o
+ .bss           0x0000e668        0x0 flash_wrapper.o
+ .bss           0x0000e668       0x44 misc.o
+ .bss           0x0000e6ac        0x0 uart.o
+ .bss           0x0000e6ac        0x0 syscalls.o
+ .bss           0x0000e6ac        0x0 init.o
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .bss           0x0000e6ac        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .bss           0x0000e6ac       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000e6ac                __malloc_top_pad
+                0x0000e6b0                __malloc_current_mallinfo
+                0x0000e6d8                __malloc_max_sbrked_mem
+                0x0000e6dc                __malloc_max_total_mem
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .bss           0x0000e6e0        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .bss           0x0000e6e0        0xc /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000e6e0                __nlocale_changed
+                0x0000e6e4                __mlocale_changed
+                0x0000e6e8                _PathLocale
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000e6ec        0x0 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+ COMMON         0x0000e6ec        0x8 ftl.o
+                0x0000e6ec                g_ftl_read_buf_id
+                0x0000e6f0                g_ftl_write_buf_id
+ COMMON         0x0000e6f4      0x424 sata_main.o
+                0x0000e6f4                g_sata_context
+                0x0000e710                g_sata_action_flags
+                0x0000e714                g_sata_ncq
+ COMMON         0x0000eb18      0x200 mem_util.o
+                0x0000eb18                g_temp_mem
+ COMMON         0x0000ed18      0x80c misc.o
+                0x0000ed18                g_sdram_ecc_fail_count
+                0x0000ed1c                g_timer_interrupt_count
+                0x0000ed20                g_sdram_ecc_count
+                0x0000ed24                __HEAP_START
+ COMMON         0x0000f524        0x4 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x0000f524                errno
+                0x0000e614                Image$$ER_ZI$$ZI$$Base = LOADADDR (.bss)
+                0x00000f14                Image$$ER_ZI$$ZI$$Length = SIZEOF (.bss)
+                0x0000e614                size_of_firmware_image = LOADADDR (.bss)
+                0x00000000                _start = entry_point
+OUTPUT(firmware.elf elf32-littlearm)
+
+.debug_abbrev   0x00000000     0x14c4
+ .debug_abbrev  0x00000000      0x2ad ftl.o
+ .debug_abbrev  0x000002ad      0x19e sata_identify.o
+ .debug_abbrev  0x0000044b      0x196 sata_cmd.o
+ .debug_abbrev  0x000005e1      0x1ba sata_isr.o
+ .debug_abbrev  0x0000079b      0x20b sata_main.o
+ .debug_abbrev  0x000009a6       0x8b sata_table.o
+ .debug_abbrev  0x00000a31       0xae initialize.o
+ .debug_abbrev  0x00000adf      0x1f1 mem_util.o
+ .debug_abbrev  0x00000cd0      0x186 flash.o
+ .debug_abbrev  0x00000e56      0x137 flash_wrapper.o
+ .debug_abbrev  0x00000f8d      0x25f misc.o
+ .debug_abbrev  0x000011ec      0x259 uart.o
+ .debug_abbrev  0x00001445       0x7f syscalls.o
+
+.debug_info     0x00000000     0x4593
+ .debug_info    0x00000000      0x707 ftl.o
+ .debug_info    0x00000707      0x363 sata_identify.o
+ .debug_info    0x00000a6a      0x951 sata_cmd.o
+ .debug_info    0x000013bb      0x6b7 sata_isr.o
+ .debug_info    0x00001a72      0x4ee sata_main.o
+ .debug_info    0x00001f60       0xf8 sata_table.o
+ .debug_info    0x00002058      0x126 initialize.o
+ .debug_info    0x0000217e      0x8d2 mem_util.o
+ .debug_info    0x00002a50      0x2fa flash.o
+ .debug_info    0x00002d4a      0x655 flash_wrapper.o
+ .debug_info    0x0000339f      0x4c2 misc.o
+ .debug_info    0x00003861      0xbcc uart.o
+ .debug_info    0x0000442d      0x166 syscalls.o
+
+.debug_line     0x00000000     0x15ff
+ .debug_line    0x00000000      0x3df ftl.o
+ .debug_line    0x000003df      0x139 sata_identify.o
+ .debug_line    0x00000518      0x1b6 sata_cmd.o
+ .debug_line    0x000006ce      0x1c8 sata_isr.o
+ .debug_line    0x00000896      0x15b sata_main.o
+ .debug_line    0x000009f1       0x5b sata_table.o
+ .debug_line    0x00000a4c      0x1d5 initialize.o
+ .debug_line    0x00000c21      0x190 mem_util.o
+ .debug_line    0x00000db1      0x178 flash.o
+ .debug_line    0x00000f29      0x238 flash_wrapper.o
+ .debug_line    0x00001161      0x24b misc.o
+ .debug_line    0x000013ac      0x202 uart.o
+ .debug_line    0x000015ae       0x51 syscalls.o
+
+.debug_loc      0x00000000     0x2fe7
+ .debug_loc     0x00000000      0x6c0 ftl.o
+ .debug_loc     0x000006c0      0x1ba sata_identify.o
+ .debug_loc     0x0000087a      0x4e9 sata_cmd.o
+ .debug_loc     0x00000d63      0x4ca sata_isr.o
+ .debug_loc     0x0000122d       0xf6 sata_main.o
+ .debug_loc     0x00001323       0x94 initialize.o
+ .debug_loc     0x000013b7      0xbb7 mem_util.o
+ .debug_loc     0x00001f6e      0x368 flash.o
+ .debug_loc     0x000022d6      0x5fb flash_wrapper.o
+ .debug_loc     0x000028d1      0x484 misc.o
+ .debug_loc     0x00002d55      0x246 uart.o
+ .debug_loc     0x00002f9b       0x4c syscalls.o
+
+.debug_pubnames
+                0x00000000      0x90c
+ .debug_pubnames
+                0x00000000       0x81 ftl.o
+ .debug_pubnames
+                0x00000081       0x3f sata_identify.o
+ .debug_pubnames
+                0x000000c0      0x1f6 sata_cmd.o
+ .debug_pubnames
+                0x000002b6       0x22 sata_isr.o
+ .debug_pubnames
+                0x000002d8       0x6e sata_main.o
+ .debug_pubnames
+                0x00000346       0x5c sata_table.o
+ .debug_pubnames
+                0x000003a2       0x23 initialize.o
+ .debug_pubnames
+                0x000003c5      0x174 mem_util.o
+ .debug_pubnames
+                0x00000539       0xaf flash.o
+ .debug_pubnames
+                0x000005e8      0x148 flash_wrapper.o
+ .debug_pubnames
+                0x00000730      0x124 misc.o
+ .debug_pubnames
+                0x00000854       0x64 uart.o
+ .debug_pubnames
+                0x000008b8       0x54 syscalls.o
+
+.debug_pubtypes
+                0x00000000      0x4aa
+ .debug_pubtypes
+                0x00000000       0x4d ftl.o
+ .debug_pubtypes
+                0x0000004d       0x69 sata_identify.o
+ .debug_pubtypes
+                0x000000b6       0x86 sata_cmd.o
+ .debug_pubtypes
+                0x0000013c       0x69 sata_isr.o
+ .debug_pubtypes
+                0x000001a5       0x95 sata_main.o
+ .debug_pubtypes
+                0x0000023a       0x3a sata_table.o
+ .debug_pubtypes
+                0x00000274       0x27 initialize.o
+ .debug_pubtypes
+                0x0000029b       0x3d mem_util.o
+ .debug_pubtypes
+                0x000002d8       0x32 flash.o
+ .debug_pubtypes
+                0x0000030a       0x32 flash_wrapper.o
+ .debug_pubtypes
+                0x0000033c       0x4f misc.o
+ .debug_pubtypes
+                0x0000038b      0x11f uart.o
+
+.debug_aranges  0x00000000      0x180
+ .debug_aranges
+                0x00000000       0x20 ftl.o
+ .debug_aranges
+                0x00000020       0x20 sata_identify.o
+ .debug_aranges
+                0x00000040       0x20 sata_cmd.o
+ .debug_aranges
+                0x00000060       0x20 sata_isr.o
+ .debug_aranges
+                0x00000080       0x20 sata_main.o
+ .debug_aranges
+                0x000000a0       0x20 initialize.o
+ .debug_aranges
+                0x000000c0       0x20 mem_util.o
+ .debug_aranges
+                0x000000e0       0x20 flash.o
+ .debug_aranges
+                0x00000100       0x20 flash_wrapper.o
+ .debug_aranges
+                0x00000120       0x20 misc.o
+ .debug_aranges
+                0x00000140       0x20 uart.o
+ .debug_aranges
+                0x00000160       0x20 syscalls.o
+
+.debug_ranges   0x00000000      0x598
+ .debug_ranges  0x00000000      0x258 ftl.o
+ .debug_ranges  0x00000258       0x40 sata_identify.o
+ .debug_ranges  0x00000298       0xf8 sata_isr.o
+ .debug_ranges  0x00000390       0xd8 sata_main.o
+ .debug_ranges  0x00000468       0x30 flash_wrapper.o
+ .debug_ranges  0x00000498       0xc0 misc.o
+ .debug_ranges  0x00000558       0x40 uart.o
+
+.debug_str      0x00000000     0x19a8
+ .debug_str     0x00000000      0x36c ftl.o
+                                0x3a2 (size before relaxing)
+ .debug_str     0x0000036c      0x1a7 sata_identify.o
+                                0x25c (size before relaxing)
+ .debug_str     0x00000513      0x85f sata_cmd.o
+                                0xa0f (size before relaxing)
+ .debug_str     0x00000d72       0xfb sata_isr.o
+                                0x741 (size before relaxing)
+ .debug_str     0x00000e6d       0xe5 sata_main.o
+                                0x2aa (size before relaxing)
+ .debug_str     0x00000f52       0x15 sata_table.o
+                                 0xee (size before relaxing)
+ .debug_str     0x00000f67       0x58 initialize.o
+                                 0xff (size before relaxing)
+ .debug_str     0x00000fbf      0x1cb mem_util.o
+                                0x293 (size before relaxing)
+ .debug_str     0x0000118a       0xe2 flash.o
+                                0x196 (size before relaxing)
+ .debug_str     0x0000126c      0x181 flash_wrapper.o
+                                0x287 (size before relaxing)
+ .debug_str     0x000013ed      0x181 misc.o
+                                0x283 (size before relaxing)
+ .debug_str     0x0000156e      0x40b uart.o
+                                0x542 (size before relaxing)
+ .debug_str     0x00001979       0x2f syscalls.o
+                                 0x87 (size before relaxing)
+
+.comment        0x00000000       0x2a
+ .comment       0x00000000       0x2a ftl.o
+                                 0x2b (size before relaxing)
+ .comment       0x00000000       0x2b sata_identify.o
+ .comment       0x00000000       0x2b sata_cmd.o
+ .comment       0x00000000       0x2b sata_isr.o
+ .comment       0x00000000       0x2b sata_main.o
+ .comment       0x00000000       0x2b sata_table.o
+ .comment       0x00000000       0x2b initialize.o
+ .comment       0x00000000       0x2b mem_util.o
+ .comment       0x00000000       0x2b flash.o
+ .comment       0x00000000       0x2b flash_wrapper.o
+ .comment       0x00000000       0x2b misc.o
+ .comment       0x00000000       0x2b uart.o
+ .comment       0x00000000       0x2b syscalls.o
+
+.ARM.attributes
+                0x00000000       0x32
+ .ARM.attributes
+                0x00000000       0x34 ftl.o
+ .ARM.attributes
+                0x00000034       0x34 sata_identify.o
+ .ARM.attributes
+                0x00000068       0x34 sata_cmd.o
+ .ARM.attributes
+                0x0000009c       0x34 sata_isr.o
+ .ARM.attributes
+                0x000000d0       0x34 sata_main.o
+ .ARM.attributes
+                0x00000104       0x34 sata_table.o
+ .ARM.attributes
+                0x00000138       0x34 initialize.o
+ .ARM.attributes
+                0x0000016c       0x34 mem_util.o
+ .ARM.attributes
+                0x000001a0       0x34 flash.o
+ .ARM.attributes
+                0x000001d4       0x34 flash_wrapper.o
+ .ARM.attributes
+                0x00000208       0x34 misc.o
+ .ARM.attributes
+                0x0000023c       0x34 uart.o
+ .ARM.attributes
+                0x00000270       0x34 syscalls.o
+ .ARM.attributes
+                0x000002a4       0x24 init.o
+ .ARM.attributes
+                0x000002c8       0x1a /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000002e2       0x18 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000002fa       0x1a /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000314       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000348       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000037c       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x000003b0       0x1a /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000003ca       0x1a /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x000003e4       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000418       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000044c       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000480       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x000004b4       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000004e8       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000051c       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000550       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000584       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .ARM.attributes
+                0x000005b8       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000005ec       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000620       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000654       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000688       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+ .ARM.attributes
+                0x000006bc       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x000006f0       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000724       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000758       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x0000078c       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x000007c0       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x000007f4       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000828       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000085c       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000890       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x000008c4       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000008f8       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x0000092c       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000960       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000994       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x000009c8       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x000009fc       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000a30       0x34 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000a64       0x1a /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000a7e       0x1a /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000a98       0x1a /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000ab2       0x1a /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+
+.debug_frame    0x00000000     0x1540
+ .debug_frame   0x00000000       0xe0 ftl.o
+ .debug_frame   0x000000e0       0x48 sata_identify.o
+ .debug_frame   0x00000128      0x1b8 sata_cmd.o
+ .debug_frame   0x000002e0       0x38 sata_isr.o
+ .debug_frame   0x00000318       0x64 sata_main.o
+ .debug_frame   0x0000037c       0x3c initialize.o
+ .debug_frame   0x000003b8      0x1a8 mem_util.o
+ .debug_frame   0x00000560       0xb0 flash.o
+ .debug_frame   0x00000610      0x174 flash_wrapper.o
+ .debug_frame   0x00000784       0xf0 misc.o
+ .debug_frame   0x00000874       0x88 uart.o
+ .debug_frame   0x000008fc       0x70 syscalls.o
+ .debug_frame   0x0000096c       0x20 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000098c       0x50 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .debug_frame   0x000009dc       0x3c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .debug_frame   0x00000a18       0x3c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+ .debug_frame   0x00000a54       0x20 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000a74       0x48 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_frame   0x00000abc      0x12c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_frame   0x00000be8       0x50 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x00000c38       0x58 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x00000c90       0x3c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000ccc       0x28 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000cf4       0x30 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000d24       0x38 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .debug_frame   0x00000d5c       0x2c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000d88       0x60 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-sprintf.o)
+ .debug_frame   0x00000de8       0x88 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_frame   0x00000e70       0x3c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000eac       0x50 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-vsnprintf.o)
+ .debug_frame   0x00000efc       0x2c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_frame   0x00000f28       0x2c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_frame   0x00000f54       0x64 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000fb8       0x3c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_frame   0x00000ff4       0x98 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .debug_frame   0x0000108c       0x2c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x000010b8       0x2c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .debug_frame   0x000010e4       0x30 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00001114      0x228 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .debug_frame   0x0000133c       0x2c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .debug_frame   0x00001368       0x68 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_frame   0x000013d0       0x28 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x000013f8       0x30 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00001428       0x20 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_frame   0x00001448       0x68 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x000014b0       0x28 /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .debug_frame   0x000014d8       0x2c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00001504       0x3c /home/kunyang/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)

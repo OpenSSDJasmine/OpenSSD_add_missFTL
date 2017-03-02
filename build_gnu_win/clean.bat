@@ -1,0 +1,2 @@
+cs-make clean
+pause
